@@ -1,0 +1,25 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv" >
+4
+5    <uses-sdk
+5-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+6        android:minSdkVersion="8"
+6-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+7        android:targetSdkVersion="29" />
+7-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:15-44
+8
+9    <uses-permission android:name="android.permission.CAMER." />
+9-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:5:5-81
+9-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:5:22-62
+10
+11    <application>
+11-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:6:5-12:19
+12        android
+13        <activity android:name="org.opencv.MainActivity" >
+13-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:8:9-11:20
+13-->C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:8:19-47
+14        </activity>
+15    </application>
+16
+17</manifest>

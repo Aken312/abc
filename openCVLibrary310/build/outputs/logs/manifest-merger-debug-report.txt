@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMER.
+ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:5:22-62
+application
+ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:6:5-12:19
+activity#org.opencv.MainActivity
+ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:8:9-11:20
+	android:name
+		ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:8:19-47
+uses-sdk
+ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+	android:targetSdkVersion
+		ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:15-44
+		INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml
+		ADDED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml:14:5-47
+		INJECTED from C:\android-sdk\abc\openCVLibrary310\src\main\AndroidManifest.xml
